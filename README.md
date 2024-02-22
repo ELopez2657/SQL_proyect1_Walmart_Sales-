@@ -1,6 +1,10 @@
-# SQL_proyect1_Walmart_Sales-
+# SQL_proyect1_Walmart_Sales
+
+## Language used MySQL
 
 ![image](https://github.com/ELopez2657/SQL_proyect_1_Walmart_Sales-/assets/146747798/df9bc665-87b9-4266-a80c-dbf4aa434eed)
+
+The dataset provided belongs to the analysis of Walmart Sales. Through queries in MySQL, the aim is to provide answers to the following questions:
 
 
 1.	What are the unique cities where sales occurred?
