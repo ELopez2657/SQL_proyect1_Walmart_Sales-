@@ -1,4 +1,4 @@
-# SQL_proyect1_Walmart_Sales
+# SQL_proyect_04_Walmart_Sales
 
 ![image](https://github.com/ELopez2657/SQL_proyect_1_Walmart_Sales-/assets/146747798/df9bc665-87b9-4266-a80c-dbf4aa434eed)
 
